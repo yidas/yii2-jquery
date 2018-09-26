@@ -1,0 +1,36 @@
+{
+  "name": "yidas/yii2-jquery",
+  "description": "jQuery Asset Bundle extension with fixed and CDN sources for Yii2 framework",
+  "keywords": [
+    "yii",
+    "yii2",
+    "asset",
+    "asset bundle",
+    "jquery"
+  ],
+  "type": "yii2-extension",
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/yidas/yii2-jquery/issues",
+    "source": "https://github.com/yidas/yii2-jquery"
+  },
+  "authors": [
+    {
+      "name": "Nick Tsai",
+      "email": "myintaer@gmail.com",
+      "homepage": "https://github.com/yidas/"
+    }
+  ],
+  "provide": {
+      "bower-asset/jquery": "*"
+  },
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "~2.0.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "yidas\\yii\\jquery\\": "src"
+    }
+  }
+}
