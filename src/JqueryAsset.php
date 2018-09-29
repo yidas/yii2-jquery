@@ -8,7 +8,7 @@ use yii\web\AssetBundle;
  * This asset bundle provides the [jQuery](http://jquery.com/) JavaScript library.
  *
  * @author  Nick Tsai <myintaer@gmail.com>
- * @version 3.0.0
+ * @version 2.0.0
  */
 class JqueryAsset extends AssetBundle
 {
@@ -19,7 +19,7 @@ class JqueryAsset extends AssetBundle
     /**
      * @var string Default version for fixed assets
      */
-    public $version = '3.3.1';
+    public $version = '2.2.4';
 
     /**
      * Default CDN JS URL
