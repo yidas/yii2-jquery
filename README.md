@@ -28,7 +28,7 @@ FEATURES
 
 - ***No Bower**, Composer installation only*
 
-- ***CDN & fixed*** assets source provided*
+- ***CDN & fixed** assets source provided*
 
 - ***Version Controll** refers to jQuery*
 
