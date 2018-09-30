@@ -22,6 +22,17 @@ jQuery Asset Bundle extension with fixed and CDN sources for Yii2 framework
 
 This is the [jQuery](https://jquery.com/) extension for [Yii framework 2.0](http://www.yiiframework.com/). It provides fixed and CDN [jQuery](https://github.com/jquery/jquery) distribution assets and thus makes using jQuery in Yii applications extremely easy.
 
+
+FEATURES
+--------
+
+- ***No Bower**, Composer installation only*
+
+- ***CDN & fixed*** assets source provided*
+
+- ***Version Controll** refers to jQuery*
+
+
 ---
 
 
